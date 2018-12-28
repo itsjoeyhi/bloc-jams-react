@@ -11,7 +11,7 @@ class App extends Component {
         <header>
         <nav>
            </nav>
-          <h1>Bloc Jamss</h1>
+          <h1>Bloc Jams</h1>
         </header>
         <main>
         <Route exact path="/" component={Landing} />
