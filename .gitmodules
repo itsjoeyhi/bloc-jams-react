@@ -1,0 +1,3 @@
+[submodule "bloc-jams-react"]
+	path = bloc-jams-react
+	url = https://github.com/itsjoeyhi/bloc-jams-react.git
